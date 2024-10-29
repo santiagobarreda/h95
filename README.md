@@ -10,7 +10,7 @@ Hosted with permission from Jim Hillenbrand.
 
 # Original Readme file
 
-Below is the original readme file with some slight formatting changes. This is found in the h95-alldata.zip file. 
+Below is the original readme file with some slight formatting changes. This is found in the h95-alldata.zip file. All files described are in the same zip file.
 
 ## Filenames (e.g., 'm12ae') 
 
