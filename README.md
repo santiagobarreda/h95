@@ -1,4 +1,4 @@
-# Description
+## Description
 
 Data and recordings associated with the article:
 
@@ -8,11 +8,11 @@ The Journal of the Acoustical Society of America, 97(5), Article 5. https://doi.
 Hosted with permission from Jim Hillenbrand.
 
 
-# Original Readme file
+## Original Readme file
 
 Below is the original readme file with some slight formatting changes. This is found in the h95-alldata.zip file. All files described are in the same zip file.
 
-## Filenames (e.g., 'm12ae') 
+### Filenames (e.g., 'm12ae') 
 
 character 1:            m=man, w=woman, b=boy, g=girl
 characters 2-3:         talker number
@@ -20,7 +20,7 @@ characters 4-5:         vowel (ae="had", ah="hod" (the vowel in "cot"), aw="hawe
 
 Note that there are a few talker numbers that are not used (e.g., m05, w18, g03).
 
-## Files
+### Files
 
 men.zip:                Sound files for men compressed as a pkzip/Winzip file. 16 kHz linear PCM, Windows .wav format.
 
